@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Users\\Yousaf\\OneDrive\\Documents\\UE5\\CPSC565\\KingdomOfPredators\\Source\\KingdomOfPredators\\KingdomOfPredators.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Yousaf\\OneDrive\\Documents\\UE5\\CPSC565\\KingdomOfPredators\\.vscode\\compileCommands_KingdomOfPredators\\KingdomOfPredators.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Yousaf\\OneDrive\\Documents\\UE5\\CPSC565\\KingdomOfPredators\\Source\\KingdomOfPredators\\KingdomOfPredators.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Yousaf\\OneDrive\\Documents\\UE5\\CPSC565\\KingdomOfPredators\\.vscode\\compileCommands_KingdomOfPredators\\KingdomOfPredators.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Yousaf\\OneDrive\\Documents\\UE5\\CPSC565\\KingdomOfPredators\\Source\\KingdomOfPredators\\KingdomOfPredators.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Yousaf\\OneDrive\\Documents\\UE5\\CPSC565\\KingdomOfPredators\\.vscode\\compileCommands_KingdomOfPredators\\KingdomOfPredators.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.3\\Engine\\Source"
+	}
+]
